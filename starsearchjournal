@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>starresearchjournal</title>
+<link rel="stylesheet" href="normalize.css">
+<link href='http://fonts.googleapis.com/css?family=Changa+One|Open+Sans:400italic,700italic,400,700,800' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="responsive.css">
+</head>
+<body>
+<header>
+ <a href="index.html" id="logo">
+  <h1> STAR RESEARCH JOURNAL </h1>
+  <h2> AN INTERNATIONAL ONLINE JOURNAL </h2> 
+  </a>
+  <nav>
+  <ul>
+<li><a href="index.html" class="selected" > HOME</a> </li>
+<li><a href="about.html"> ABOUT US</a></li>
+<li><a href="currentissues.html"> CURRENT ISSUES</a></li>
+<li><a href="archive.html"> ARCHIVE</a></li>
+<li><a href="journalindex.html"> JOURNAL INDEXING</a></li>
+<li><a href="certificate.html"> CERTIFICATE</a></li>
+<li><a href="editorialboard.html"> EDITORIAL BOARD</a></li>
+<li><a href="contactus.html"> CONTACT US</a></li>
+</ul>  
+ </nav>
+</header>
+<div id="wrapper">
+<section>
+<img src="logo.jpg" alt="Photograph of star research journal" class="profile-photo">
+        <h3>WHO WE ARE? </h3>
+<p>	
+Welcome,
+Star Research is an International online journal. It is the process through which experts in the field of study assess the quality of articles that are submitted to a journal for publication. The journal is aimed to publish original ideas of empirical and research papers that will contribute to the knowledge of the readers and add value to the literature of Science, Engineering and Technology, Medical Science, Biomedical, life science, Social Sciences & Humanities and all the disciplines.
+<br><br>The Journal welcomes the submission of manuscripts that meet the general criteria of significance and academic excellence. Papers will be published approximately one week after acceptance.
+
+Every manuscript is reviewed usually by two reviewers (Both have been, published in whole or in part in any other journal / Both being from a different country / at least one from different institution from the author) familiar with the relevant field of research. To provide the quality information and knowledge that enables our readers to perform their jobs efficiently. Our readers are researchers, students, academics and increasingly professionals.
+
+<br><br>We welcome papers from both academicians and practitioners on theories, business models, conceptual paradigms, academic research, and consultancy projects.</p>
+</section>
+<footer>
+</footer>
+</div>
+</body>
+</html>
